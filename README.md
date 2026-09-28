@@ -44,8 +44,8 @@ A scalable data pipeline built using **Docker**, **Apache Kafka** for real-time 
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** [your-profile](https://linkedin.com/in/irfana-zahir)
-* **GitHub:** [your-github](https://github.com/irfanaGalfan)
-* **Email:** [your.email@example.com](mailto:irfanazahir@gmail.com)
+* **LinkedIn:** [https://linkedin.com/in/irfana-zahir](https://linkedin.com/in/irfana-zahir)
+* **GitHub:** [https://github.com/irfanaGalfan](https://github.com/irfanaGalfan)
+* **Email:** [mailto:irfanazahir@gmail.com](mailto:irfanazahir@gmail.com)
 
 *"The best way to predict the future is to invent it."*
